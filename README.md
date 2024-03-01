@@ -1,6 +1,6 @@
 <h1>Hi, I'm Okezie
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects:</h2>
 
 - <b>Configure File and Directory Permissions in a Linux VM</b>
   - [Practicing setting file and directory permissions in Linux](https://github.com/okezienwaiwu/Permissions-in-Linux)
@@ -11,6 +11,16 @@
 - <b>Applying NIST CSF</b>
   - [Applying NIST CSF to Incident Analysis](https://github.com/okezienwaiwu/Applying-NIST-CSF-to-Incident-Analysis)
 
+<h2> Certifications:</h2>
+
+- <b>Certified QualysGuard Spesialist </b>
+  - [Practicing setting file and directory permissions in Linux](https://github.com/okezienwaiwu/Permissions-in-Linux)
+- <b>CompTIA Security+ (SYO-601)</b>
+  - [Practicing Automation using Python](https://github.com/okezienwaiwu/Automation-Using-Python) 
+- <b>Google Cybersecurity Analyst</b>
+  - [Using SQL queries to filter and analyze logs and data](https://github.com/okezienwaiwu/Using-SQL-queries-to-filter-logs)
+- <b>IBM Cybersecurity Analyst</b>
+  - [Applying NIST CSF to Incident Analysis](https://github.com/okezienwaiwu/Applying-NIST-CSF-to-Incident-Analysis)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
