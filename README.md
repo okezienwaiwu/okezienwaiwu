@@ -1,4 +1,4 @@
-<h1>Hi, I'm Okezie! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Vulnerability Management Specialist</a>
+<h1>Hi, I'm Okezie! <br/><a href="https://github.com/okezienwaiwu">Cybersecurity Analyst</a>, <a href="https://github.com/okezienwaiwu">Vulnerability Management Specialist</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
