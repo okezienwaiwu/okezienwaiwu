@@ -1,11 +1,11 @@
-<h1>Hi, I'm Okezie! <br/><a href="https://github.com/okezienwaiwu">Cybersecurity Analyst</a>, <a href="https://github.com/okezienwaiwu">Vulnerability Management Specialist</a>
+<h1>Hi, I'm Okezie
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Configure File and Directory Permissions in a Linux VM</b>
   - [Practicing setting file and directory permissions in Linux](https://github.com/okezienwaiwu/Permissions-in-Linux)
 - <b>Python Algorithm for file updates</b>
-  - [Practicing Automation using Python](https://github.com/okezienwaiwu/Automation-Using-Python) <b><i>
+  - [Practicing Automation using Python](https://github.com/okezienwaiwu/Automation-Using-Python) 
 - <b>Running Queries in SQL</b>
   - [Using SQL queries to filter and analyze logs and data](https://github.com/okezienwaiwu/Using-SQL-queries-to-filter-logs)
 - <b>Applying NIST CSF</b>
