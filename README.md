@@ -14,15 +14,15 @@
 <h2> Certifications:</h2>
 
 - <b>Certified QualysGuard Spesialist </b>
-  - [Practicing setting file and directory permissions in Linux](https://github.com/okezienwaiwu/Permissions-in-Linux)
+  - [QualysGuard Certificates](https://github.com/okezienwaiwu/Certifications/tree/main/QualysGuard%20Certificates)
 - <b>CompTIA Security+ (SYO-601)</b>
-  - [Practicing Automation using Python](https://github.com/okezienwaiwu/Automation-Using-Python) 
+  - [CompTIA Security+ Certificate](https://github.com/okezienwaiwu/Certifications/blob/main/CompTIA%20Security%2B%20certificate.pdf) 
 - <b>Google Cybersecurity Analyst</b>
-  - [Using SQL queries to filter and analyze logs and data](https://github.com/okezienwaiwu/Using-SQL-queries-to-filter-logs)
+  - [Google Cybersecurity Certificate](https://github.com/okezienwaiwu/Certifications/blob/main/Google%20Cybersecurity%20Certificate.pdf)
 - <b>IBM Cybersecurity Analyst</b>
-  - [Applying NIST CSF to Incident Analysis](https://github.com/okezienwaiwu/Applying-NIST-CSF-to-Incident-Analysis)
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - [IBM Cybersurity Analyst Certificate](https://github.com/okezienwaiwu/Certifications/blob/main/IBM%20CYBERSECURITY%20ANALYST.pdf)
+
+**okezienwaiwu/okezienwaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
